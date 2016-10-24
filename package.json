@@ -1,0 +1,34 @@
+{
+  "name": "machine_learning",
+  "version": "0.1.1",
+  "description": "Machine learning library for Node.js. You can also use this library in browser.",
+  "main": "./lib/machine_learning",
+  "homepage": "http://joonku.com/project/machine_learning",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/junku901/machine_learning"
+  },
+  "keywords": [
+    "machine learning",
+    "ml",
+    "neural network",
+    "svm",
+    "support vector machine",
+    "kmeans",
+    "knn",
+    "k nearest neighbors",
+    "decision tree",
+    "genetic algorithm",
+    "nmf",
+    "non-negative matrix factorization"
+  ],
+  "author": {
+    "name": "Joon-Ku Kang",
+    "email": "junku901@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
